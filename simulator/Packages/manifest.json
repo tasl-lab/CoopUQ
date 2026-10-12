@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "com.unity.ai.navigation": "2.0.5",
+    "com.unity.ml-agents": "https://github.com/Unity-Technologies/ml-agents.git?path=com.unity.ml-agents#release_22",
+    "com.unity.render-pipelines.universal": "16.0.6",
+    "com.unity.toolchain.linux-x86_64": "2.0.10",
+    "com.unity.modules.ai": "1.0.0",
+    "com.unity.modules.jsonserialize": "1.0.0",
+    "com.unity.modules.physics": "1.0.0",
+    "com.unity.modules.ui": "1.0.0",
+    "com.unity.modules.unitywebrequest": "1.0.0"
+  }
+}

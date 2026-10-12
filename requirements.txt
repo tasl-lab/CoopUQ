@@ -1,0 +1,8 @@
+torch>=2.0
+numpy<2.0
+gym==0.26.2
+mlagents-envs>=1.0
+tensorboardX
+setproctitle
+lz4
+cloudpickle

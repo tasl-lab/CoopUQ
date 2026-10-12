@@ -1,0 +1,22 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.vscode/
+.idea/
+
+# Unity builds (downloaded separately, see README)
+unity_envs/*
+!unity_envs/README.md
+
+# evaluation outputs
+results/
+onpolicy/scripts/results/
+wandb/
+
+# simulator archive
+*.tar.gz
+
+# individual video clips (only the tiled videos are kept in the repository)
+assets/videos/*/*_[0-9].mp4
+assets/videos/*/*.check.txt
+assets/videos/*/*.long.mp4

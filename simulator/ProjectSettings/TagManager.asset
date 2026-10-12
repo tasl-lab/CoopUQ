@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - robot
+  - Agent
+  - Obstacle
+  - Robot
+  - NPC
+  - NPC_legs
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - NPC
+  - Water
+  - UI
+  - Robot
+  - Wall
+  - Ground
+  - Chair
+  - Desk
+  - Shelf
+  - Obstacle
+  - Door
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

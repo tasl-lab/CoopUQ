@@ -1,0 +1,20 @@
+{
+  "room_size": [15.0, 15.0],
+  "wall_height": 1.4,
+  "obstacles": [
+    {"type": "box", "position": [3.85, -1.44], "size": [0.5, 1.8], "rotation": 0.0, "height": 1.4},
+    {"type": "box", "position": [4.53, 3.16], "size": [1.8, 0.1], "rotation": 90.0, "height": 1.4},
+    {"type": "box", "position": [2.97, -4.53], "size": [2.0, 0.1], "rotation": 0.0, "height": 1.4},
+    {"type": "box", "position": [-0.57, -4.74], "size": [0.5, 0.8], "rotation": 0.0, "height": 1.4},
+    {"type": "box", "position": [-3.43, -2.59], "size": [2.0, 0.1], "rotation": 0.0, "height": 1.4},
+    {"type": "box", "position": [-3.87, 4.1], "size": [0.8, 0.6], "rotation": 90.0, "height": 1.4},
+    {"type": "box", "position": [0.54, 2.74], "size": [3.0, 0.1], "rotation": 45.0, "height": 1.4},
+    {"type": "box", "position": [0.51, -1.05], "size": [0.7, 0.3], "rotation": 135.0, "height": 1.4},
+    {"type": "box", "position": [-2.66, 0.51], "size": [0.1, 1.6], "rotation": 0.0, "height": 1.4}
+  ],
+  "robots": 3,
+  "pedestrians": 9,
+  "pedestrian_speed": [0.8, 1.5],
+  "goal_distance": [8, 12],
+  "max_steps": 200
+}

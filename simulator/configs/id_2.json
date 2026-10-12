@@ -1,0 +1,21 @@
+{
+  "room_size": [12.0, 12.0],
+  "wall_height": 1.4,
+  "obstacles": [
+    {"type": "box", "position": [-2.67, -2.29], "size": [1.5, 0.1], "rotation": 0.0, "height": 1.4},
+    {"type": "box", "position": [1.33, -3.02], "size": [1.8, 0.1], "rotation": 110.0, "height": 1.4},
+    {"type": "box", "position": [2.47, 0.35], "size": [2.0, 0.1], "rotation": 0.0, "height": 1.4},
+    {"type": "box", "position": [2.63, 1.4], "size": [2.0, 0.1], "rotation": 90.0, "height": 1.4},
+    {"type": "box", "position": [2.88, 2.66], "size": [1.0, 0.1], "rotation": 120.0, "height": 1.4},
+    {"type": "box", "position": [0.3, -3.86], "size": [1.6, 0.1], "rotation": 0.0, "height": 1.4},
+    {"type": "box", "position": [-2.68, -1.56], "size": [0.1, 1.5], "rotation": 0.0, "height": 1.4},
+    {"type": "box", "position": [-2.2, 2.61], "size": [2.0, 0.1], "rotation": 90.0, "height": 1.4},
+    {"type": "box", "position": [-1.15, 2.84], "size": [0.1, 2.0], "rotation": 90.0, "height": 1.4},
+    {"type": "box", "position": [2.42, -2.26], "size": [1.6, 0.1], "rotation": 0.0, "height": 1.4}
+  ],
+  "robots": 3,
+  "pedestrians": 9,
+  "pedestrian_speed": [0.8, 1.5],
+  "goal_distance": [6, 12],
+  "max_steps": 200
+}
